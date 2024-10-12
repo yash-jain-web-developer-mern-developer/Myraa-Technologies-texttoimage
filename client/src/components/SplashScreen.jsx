@@ -35,7 +35,7 @@ const SplashScreen = ({ onLoaded }) => {
           </div>
         </div>
       </div>
-      <h1 className="text-4xl mb-2">Welcome to Myraa Technologies</h1>
+      <h1 className="text-4xl mb-2">Welcome to ArtPromptor</h1>
       <h1 className="text-4xl mb-2">Image-Generator</h1>
       <p className="text-xl">Loading...</p>
     </div>

@@ -21,7 +21,7 @@ router.route('/').post(async (req, res) => {
     
    async function query() {
     const response = await fetch(
-      "https://api-inference.huggingface.co/models/Melonie/text_to_image_finetuned",
+      "https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-dev",
       {
         headers: {
           Authorization: `Bearer ${token}`,
